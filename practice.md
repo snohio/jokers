@@ -136,7 +136,7 @@
 - 744, 2 Red Auto
 - 8841
 - 8057
-- 179, Auto Top Tier
+- 179, Auto, Top Tier
 - 801 No show
 - 5816 No show
 - Very Agressive round, Blue solo beat the red team
@@ -152,21 +152,33 @@
 
 | Red | Blue |
 | --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+|4481 |86    |
+|801  |7500  |
+|  21 |5145  |
 
 ### Notes
 
-## Round Four
+- 4481(Again) Auto, R2
+- 801 Auto Bad at driving, R2
+- 21 Auto Top Rung Failed Attempt, Starts Early
+- 86 Auto
+- 7500 Auto, R2
+- 5145
+
+### Score
+
+- Red 74
+- Blue 24
+
+## Round 11
 
 ### Teams 
 
 | Red | Blue |
 | --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+|4481 |8753  |
+|1557 |8324  |
+|4622 |4118  |
 
 ### Notes
 
