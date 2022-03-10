@@ -46,13 +46,17 @@
 |5557 |3937  |
 
 ### Notes
+
 - 4481 Auto
 - 5557 and 7611 No show
 - 3973 might have pivot wheels
-- All climb rung 2, 1557 atempt to rung 3
+- All climb rung 2, 1557 attempt to rung 3
+
 ### Score
+
 - Red 68
 - Blue 31
+
 ## Round Six
 
 ### Teams
@@ -84,25 +88,40 @@
 
 | Red | Blue |
 | --- | ---- |
-|2425 |3627  |
-|2383 |8632  |
-|2797 |      |
+|     |      |
+|     |      |
+|     |      |
 
 ### Notes
 
-## Round Four
+- Round 10 on the schedule
+- All groups tried to climb
+
+## Round Eight
 
 ### Teams 
 
 | Red | Blue |
 | --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+|1884 |4013  |
+|7072 |8753  |
+|4481 |801   |
 
 ### Notes
 
-## Round Four
+- 1884: Struggled,R2, Failed
+- 7072:Auto,R1 Failed
+- 4481:Auto-Very Good,R2
+- 4013:Noshow
+- 8753:Auto
+- 801:Auto, Possideion for R2
+
+### Score
+
+- Red: 47
+- Blue: 4
+
+## Round Nine
 
 ### Teams 
 
