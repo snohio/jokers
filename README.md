@@ -6,6 +6,10 @@
 
 [DevOps Practices](devops-practices.md)
 
+## FRC Competition
+
+[Practice](practice.md)
+
 ### Kick Off
 
 [Kickoff 2022 - Introduction](2022-frc-kickoff.md)
