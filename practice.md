@@ -39,11 +39,11 @@
 
 ### Teams 
 
-| Red | Blue |
-| --- | ---- |
-|4481 |1557  |
-|3653 |7611  |
-|5557 |3937  |
+| Red  | Blue |
+| ---- | ---- |
+| 4481 | 1557 |
+| 3653 | 7611 |
+| 5557 | 3937 |
 
 ### Notes
 
@@ -61,11 +61,11 @@
 
 ### Teams
 
-| Red | Blue |
-| --- | ---- |
-|86   |2383  |
-|180  | 9727 |
-|8775 |7611  |
+| Red  | Blue |
+| ---- | ---- |
+| 86   | 2383 |
+| 180  | 9727 |
+| 8775 | 7611 |
 
 ### Notes
 
@@ -101,11 +101,11 @@
 
 ### Teams 
 
-| Red | Blue |
-| --- | ---- |
-|1884 |4013  |
-|7072 |8753  |
-|4481 |801   |
+| Red  | Blue |
+| ---- | ---- |
+| 1884 | 4013 |
+| 7072 | 8753 |
+| 4481 | 801  |
 
 ### Notes
 
@@ -125,11 +125,11 @@
 
 ### Teams 
 
-| Red | Blue |
-| --- | ---- |
-|744  |   179   |
-|8841 |801      |
-|8057 | 5816     |
+| Red  | Blue |
+| ---- | ---- |
+| 744  | 179  |
+| 8841 | 801  |
+| 8057 | 5816 |
 
 ### Notes
 
@@ -150,11 +150,11 @@
 
 ### Teams 
 
-| Red | Blue |
-| --- | ---- |
-|4481 |86    |
-|801  |7500  |
-|  21 |5145  |
+| Red  | Blue |
+| ---- | ---- |
+| 4481 | 86   |
+| 801  | 7500 |
+| 21   | 5145 |
 
 ### Notes
 
@@ -174,11 +174,11 @@
 
 ### Teams 
 
-| Red | Blue |
-| --- | ---- |
-|4481 |8753  |
-|1557 |8324  |
-|1056 |4118  |
+| Red  | Blue |
+| ---- | ---- |
+| 4481 | 8753 |
+| 1557 | 8324 |
+| 1056 | 4118 |
 
 ### Notes
 
@@ -198,11 +198,11 @@
 
 ### Teams
 
-| Red | Blue |
-| --- | ---- |
-|1056 |801   |
-|8775 |6743  |
-|4481 |385   |
+| Red  | Blue |
+| ---- | ---- |
+| 1056 | 801  |
+| 8775 | 6743 |
+| 4481 | 385  |
 
 ### Notes
 
@@ -220,11 +220,11 @@
 
 ### Teams
 
-| Red | Blue |
-| --- | ---- |
-|1557 | 3937  |
-| 7431 |1523   |
-|180  |2797  |
+| Red  | Blue |
+| ---- | ---- |
+| 1557 | 3937 |
+| 7431 | 1523 |
+| 180  | 2797 |
 
 ### Notes
   
@@ -240,11 +240,11 @@
 
 ### Teams
 
-| Red | Blue |
-| --- | ---- |
-|179  |4481  |
-|7431 |744   |
-|21   |6722  |
+| Red  | Blue |
+| ---- | ---- |
+| 179  | 4481 |
+| 7431 | 744  |
+| 21   | 6722 |
 
 ### Notes
 
@@ -255,87 +255,128 @@
 - Red 106
 - Blue 60
 
-## Round Four
+## Round Fifteen
 
 ### Teams 
 
 | Red | Blue |
 | --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+| 21  |      |
+| 86  |      |
+| 333 |      |
 
 ### Notes
 
-## Round Four
+- 21 fell on 86
+
+### Final Score
+
+8 - 6
+
+## Round Sixteen
 
 ### Teams
 
-| Red | Blue |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+| Red  | Blue |
+| ---- | ---- |
+| 8041 | 3653 |
+| 8057 | 2383 |
+| 86   | 1884 |
 
 ### Notes
 
-## Round Four
+## Round Nineteen
 
 ### Teams
 
-| Red | Blue |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+| Red  | Blue |
+| ---- | ---- |
+| 179  | 3164 |
+| 6473 | 5145 |
+| 4013 | 5472 |
 
 ### Notes
 
-## Round Four
+- 6473 picker has issues
+- 5472 picker broke
 
-### Teams
+### Score
 
-| Red | Blue |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+red 52 - blue 26
+
+## Round Twenty
+
+
+
+### Teams R20
+
+| Red  | Blue |
+| ---- | ---- |
+| 2797 | 1156 |
+| 16   | 21   |
+| 1649 |      |
 
 ### Notes
 
-## Round Four
+- 2797 needs to slow the shooter motor
+- 16 lift is crunchy
+
+### Final Score R20
+
+Red 24 - Blue 33
+
+## Round Twenty One
+
+### Teams R21
+
+| Red  | Blue |
+| ---- | ---- |
+| 801  | 4481 |
+| 179  | 744  |
+| 1649 | 8324 |
+
+### Notes R21
+
+- 179 and 801 have the same start space
+- 1649 has issue - over height limit. Piston extended.
+- 
+
+### Final Score R21
+
+- R88
+- B76
+
+## *Round 22*
 
 ### Teams 
 
-| Red | Blue |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+| Red    | Blue |
+| ------ | ---- |
+| 3937   | 6722 |
+| *4042* | 8775 |
+| 801    | 4481 |
 
-### Notes
+### Notes R22
 
-## Round Four
+-4042&6722 no working
+Soild light
 
-### Teams 
+## Round Twenty Three
 
-| Red | Blue |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+### Teams R23
 
-### Notes
+| Red  | Blue |
+| ---- | ---- |
+| 59   | 7611 |
+| 3653 | 7500 |
+| 8841 | 4481 |
 
-## Round Four
+### Notes R23
 
-### Teams 
+- 8841 & 3653 both got auto. points
+- 7611 accurate launch but issues picking up balls - Long time to call
+- 8841 slow to climb
 
-| Red | Blue |
-| --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+### Final Score R23
 
-### Notes
-
+Red 52 - Blue 64
