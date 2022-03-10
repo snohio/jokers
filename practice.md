@@ -178,23 +178,45 @@
 | --- | ---- |
 |4481 |8753  |
 |1557 |8324  |
-|4622 |4118  |
+|1056 |4118  |
 
 ### Notes
 
-## Round Four
+- 4481, Need I add more
+- 1557
+- 4622
+- 8753- Unstable
+- 8324
+- 4118
+
+### score
+
+- Red 83
+- Blue 19
+
+## Round 12
 
 ### Teams
 
 | Red | Blue |
 | --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+|1056 |801   |
+|8775 |6743  |
+|4481 |385   |
 
 ### Notes
 
-## Round Four
+- 4481 Loves Practice, fast
+- 8775 Auto, too fast probably
+- 801 struggled again,
+- 385 noshow
+
+### Score
+
+- Red 87
+- blue 39
+
+## Round 13
 
 ### Teams
 
