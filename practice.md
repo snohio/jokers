@@ -114,7 +114,7 @@
 - 4481:Auto-Very Good,R2
 - 4013:Noshow
 - 8753:Auto
-- 801:Auto, Possideion for R2
+- 801:Auto, Positeion for R2
 
 ### Score
 
@@ -127,13 +127,26 @@
 
 | Red | Blue |
 | --- | ---- |
-|     |      |
-|     |      |
-|     |      |
+|744  |   179   |
+|8841 |801      |
+|8057 | 5816     |
 
 ### Notes
 
-## Round Four
+- 744, 2 Red Auto
+- 8841
+- 8057
+- 179, Auto Top Tier
+- 801 No show
+- 5816 No show
+- Very Agressive round, Blue solo beat the red team
+
+### Score
+
+- Red 30 4 point penalty
+- Blue 70
+
+## Round 10
 
 ### Teams 
 
