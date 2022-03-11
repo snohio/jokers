@@ -94,6 +94,7 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 - Red 
 - Blue 103 (4 RP)
 
+## Round 41 - Red Team
 
 ### Teams R41
 
@@ -104,6 +105,29 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 | 4024 | 6743 |
 
 ### Notes R41
+
 - intake arm broke, need to fix it
 - check pneumatics tubing
 - drive into people BACKWARDS, not FORWARDS. this is because if our extension is on top of them we get penalty i think.
+  - Yes, 12 penalty points against Red
+
+### Results R41
+
+[Office Results and Video](https://frc-events.firstinspires.org/2022/FLOR/qualifications/41)
+
+Blue 33 - Red 6
+
+> This one hurt. Gave more points than scored.
+
+## Round 49 - Blue Team
+
+### Teams R49
+
+| red  | blue |
+| ---- | ---- |
+| 8324 |   86 |
+|  386 |  179 |
+| 3164 | 4024 |
+
+### Notes R49
+
