@@ -25,3 +25,19 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 - Red 29
 - Blue 19
 
+## Round Eleven - Red Team
+
+### Teams - R11
+
+| red  | blue |
+| ---- | ---- |
+| 1557 |16    |
+| 8841 | 8775 |
+| 4024 | 744  |
+
+### Notes R2
+
+- Shot too high
+- Rammed wall hard
+- Robot broke, flashing light over the pits
+- 1557 Broke also
