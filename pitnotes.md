@@ -14,3 +14,37 @@
 ### general notes
 -why did it turn off?
 
+
+## round 3 notes
+
+
+### general notes
+-nothing really other than just defence is dumb
+
+
+## round 4 notes
+
+
+### general notes
+-
+
+
+## round 5 notes
+
+
+### general notes
+-
+
+
+## round 6 notes
+
+
+### general notes
+-
+
+
+## round 7 notes
+
+
+### general notes
+-round 3 
