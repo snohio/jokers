@@ -1,10 +1,16 @@
 # Pit Notes - 2022 FRC Orlando
 
-## notes 1
 
-### sub botes
+## round 2 notes
 
-- bullet 1
 
-- [ ] Check box
+### getting to the third rung
+
+
+- we may be able to get to the third rung if the smaller pistons can pick up our robot.
+- if we use the angled pistons to get to the second rung, then the robot will tilt in such a way that we can use the longer back pistons to get to the third rung.
+
+
+### general notes
+-why did it turn off?
 
