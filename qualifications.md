@@ -43,6 +43,7 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 - Robot Shut off
 - 1557 Broke also
 
+
 ### Results R11
 
 - [Offical Results R11](https://frc-events.firstinspires.org/2022/FLOR/qualifications/11)
@@ -92,3 +93,17 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 - [Offical Results R35
 - Red 
 - Blue 103 (4 RP)
+
+
+### Teams R41
+
+| red  | blue |
+| ---- | ---- |
+| 8753 | 5816 |
+| 6322 | 6850 |
+| 4024 | 6743 |
+
+### Notes R41
+- intake arm broke, need to fix it
+- check pneumatics tubing
+- drive into people BACKWARDS, not FORWARDS. this is because if our extension is on top of them we get penalty i think.

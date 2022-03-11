@@ -26,14 +26,14 @@
 
 
 ### general notes
--
+-need to fix the intake system
 
 
 ## round 5 notes
 
 
 ### general notes
--
+-nothing
 
 
 ## round 6 notes
@@ -47,4 +47,4 @@
 
 
 ### general notes
--round 3 
+-
