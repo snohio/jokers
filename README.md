@@ -9,6 +9,7 @@
 ## FRC Competition
 
 [Practice](practice.md)
+[Qualifications](qualifications.md)
 
 ### Kick Off
 

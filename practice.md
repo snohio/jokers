@@ -376,6 +376,7 @@ Soild light
 - 8841 & 3653 both got auto. points
 - 7611 accurate launch but issues picking up balls - Long time to call
 - 8841 slow to climb
+- 7611 is pretty similar to 4024
 
 ### Final Score R23
 
