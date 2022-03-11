@@ -22,7 +22,7 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 ### Results
 
 - 9 / 20  7 top 2 bottom 28 total Red
-- Red 29
+- Red 29 (2 RP)
 - Blue 19
 
 ## Round Eleven - Red Team
@@ -31,13 +31,42 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 
 | red  | blue |
 | ---- | ---- |
-| 1557 |16    |
+| 1557 | 16   |
 | 8841 | 8775 |
 | 4024 | 744  |
 
-### Notes R2
+### Notes R11
 
 - Shot too high
 - Rammed wall hard
 - Robot broke, flashing light over the pits
+- Robot Shut off
 - 1557 Broke also
+
+### Results R11
+
+- [Offical Results R11](https://frc-events.firstinspires.org/2022/FLOR/qualifications/11)
+- Red 28
+- Blue 35 (2 RP)
+
+## Round Eleven - Blue Team
+
+### Teams - R21
+
+| red  | blue |
+| ---- | ---- |
+| 6968 |2383  |
+| 1884 | 21   |
+| 180  | 4024 |
+
+### Notes R21
+
+- Control arm no falling
+- Tape?
+- Arm Disconnect
+
+### Results R21
+
+- [Offical Results R11](https://frc-events.firstinspires.org/2022/FLOR/qualifications/11)
+- Red 62 (2 RP)
+- Blue 42  (1 RP)
