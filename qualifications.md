@@ -16,9 +16,12 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 
 ### Notes R2
 
-- Note 1
-- Note 2
+- We need to speed up
+- Went for the wrong wrung
 
 ### Results
 
+- 9 / 20  7 top 2 bottom 28 total Red
+- Red 29
+- Blue 19
 
