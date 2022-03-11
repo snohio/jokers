@@ -49,7 +49,7 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 - Red 28
 - Blue 35 (2 RP)
 
-## Round Eleven - Blue Team
+## Round 21 - Blue Team
 
 ### Teams - R21
 
@@ -67,6 +67,28 @@ Welcome to 2022 FRC Orlando - Qualiication Rounds
 
 ### Results R21
 
-- [Offical Results R11](https://frc-events.firstinspires.org/2022/FLOR/qualifications/11)
+- [Offical Results R21](https://frc-events.firstinspires.org/2022/FLOR/qualifications/21)
 - Red 62 (2 RP)
 - Blue 42  (1 RP)
+
+## Round 35 - Blue Team
+
+### Teams - R35
+
+| red  | blue |
+| ---- | ---- |
+| 1592 |3653  |
+| 7500 |4481  |
+| 4024 | 5557 |
+
+### Notes R35
+
+- Still a little slow
+- why did they bully us
+- penalties
+
+### Results R35
+
+- [Offical Results R35
+- Red 
+- Blue 103 (4 RP)
