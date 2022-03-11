@@ -131,3 +131,8 @@ Blue 33 - Red 6
 
 ### Notes R49
 
+- Remember to TURN ON THE ROBOT!!
+- Good job playing defense.
+- 
+
+### Winner - BLUE
