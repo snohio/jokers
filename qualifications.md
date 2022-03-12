@@ -148,4 +148,7 @@ Blue 33 - Red 6
 
 ### Notes R58
 
+- Jose drove well.
+- Hopefully arm can be working today.
+
 ### Scores and Such
