@@ -152,3 +152,25 @@ Blue 33 - Red 6
 - Hopefully arm can be working today.
 
 ### Scores and Such
+
+
+## Round Sizty Nine - Blue team
+
+| red  | blue |
+| ---- | ---- |
+|  386 | 6722 |
+| 1649 | 3937 |
+| 4024 | 2797 |
+
+### Notes R69
+
+- Arm all the way down does not pick up the ball
+- Didn't hang
+- Ask Jose about controls. 
+- Autonomous is **SOLID**
+
+### Scores and Such
+
+Lost :sad: Blue 37	- Red 45
+
+[Scores and Video Here](https://frc-events.firstinspires.org/2022/FLOR/qualifications/69)
