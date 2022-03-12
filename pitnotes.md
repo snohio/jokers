@@ -40,11 +40,24 @@
 
 
 ### general notes
--
+-nothing
 
 
 ## round 7 notes
 
+
+### general notes
+-nothing
+
+
+## round 8 notes
+
+
+### general notes
+-intake bad, not sure what else to say
+
+
+## round 9 notes
 
 ### general notes
 -
