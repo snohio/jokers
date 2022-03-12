@@ -133,6 +133,19 @@ Blue 33 - Red 6
 
 - Remember to TURN ON THE ROBOT!!
 - Good job playing defense.
-- 
 
 ### Winner - BLUE
+
+[Result Details, Video and Such](https://frc-events.firstinspires.org/2022/FLOR/qualifications/49)
+
+## Round 58 - red team
+
+| red  | blue |
+| ---- | ---- |
+|  386 | 6722 |
+| 1649 | 3937 |
+| 4024 | 2797 |
+
+### Notes R58
+
+### Scores and Such
