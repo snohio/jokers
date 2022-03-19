@@ -174,3 +174,25 @@ Blue 33 - Red 6
 Lost :sad: Blue 37	- Red 45
 
 [Scores and Video Here](https://frc-events.firstinspires.org/2022/FLOR/qualifications/69)
+
+## Round Eighty Three - Blue team
+
+> Last Round
+
+| Red  | Blue |
+|------|------|
+| 7611 | 6527 |
+|	1797 |  180 |
+|  233 | 4024 |
+
+### Notes R83
+
+- Excellent job..
+- We took out their defender by accidently getting on top of them. It was their fault.
+- Autonomous is **ROCK SOLID** 
+- second Hnager was great. 
+- 3 RP!  Went to 40th place.
+
+### And the results
+
+[Scores and Video Here](https://frc-events.firstinspires.org/2022/FLOR/qualifications/83)

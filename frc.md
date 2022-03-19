@@ -13,3 +13,4 @@ Trevor - 12th
 Anthony - 11th
 Nafel 12th
 
+## 2022 Goals
