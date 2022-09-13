@@ -23,7 +23,8 @@
 9 Falcons
 6 Swerve Wheels
 
-
 ### St. Thomas Aquinas - South Florida FRC Fall Meetup
 
 - Looking to see if there is an off season meeting
+
+11-1:30 
